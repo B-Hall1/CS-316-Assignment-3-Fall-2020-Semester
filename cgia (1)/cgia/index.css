@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: block;
+    position: relative;
+    width: 100%;
+    height: fit-content;
+    padding: 0 0 0 20%;
+}
+.assignment{
+    display: block;
+    position: relative;
+    width: fit-content;
+    height: fit-content;
+}
+.command-input{
+    padding: 0 0 0 0;
+}
+.input-text{
+    margin:0 0 0 10px;
+    padding: 0 0 0 5px;
+    height: 30px;
+    width:480px;
+    line-height: 30px;
+    background-color: yellow;
+    border: 1px solid black;
+}
+.submit-button{
+height: 25px;
+width: 70px;
+}
+/* .insert-div{
+height: 50px;
+}
+.retrieve-div{
+    height: 50px;
+}
+.clear-div{
+    height: 50px;
+}
+.digest-div{
+    height: 50px;
+}
+.inspect-div{
+    height: 50px;
+} */
+
+.green{
+    color:green;
+}
+.red{
+	color:red;
+}
